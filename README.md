@@ -15,6 +15,7 @@
 * ***Atributos***
 * **href**
 * **download**
+* **target**
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
