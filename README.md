@@ -10,7 +10,7 @@
   * **href**
     * Envia o usuário para o caminha especificado neste atributo.
   * **download**
-* Usado quando queremos que o usuário baixe alguma coisa e não abra no navegador.
+    * Usado quando queremos que o usuário baixe alguma coisa e não abra no navegador.
 * **target**
 * *_bkank*
 * Abre o link em uma nova aba.
