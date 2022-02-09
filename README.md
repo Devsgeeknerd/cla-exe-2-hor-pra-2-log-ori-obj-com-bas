@@ -16,6 +16,7 @@
 * **download**
 * Usado quando queremos que o usuário baixe alguma coisa e não abra no navegador.
 * **target**
+* *_bkank*
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
