@@ -1,8 +1,3 @@
-# Links
-
-```html
-  <a></a>
-```
 
 - Atributos:
   - ***href*** — Envia o usuário para o caminha especificado neste atributo.
@@ -11,6 +6,10 @@
 
 <!-- TITLE -->
 # Links
+
+```html
+  <a></a>
+```
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
