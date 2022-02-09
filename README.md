@@ -12,7 +12,7 @@
   * **download**
     * Usado quando queremos que o usuário baixe alguma coisa e não abra no navegador.
   * **target**
-* *_bkank*
+    * *_bkank*
 * Abre o link em uma nova aba.
 
 <!-- TABLE OF CONTENTS -->
