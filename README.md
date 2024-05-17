@@ -32,6 +32,11 @@ Dois dos três computadores também possuem atributos específicos:
 
 Resolução:
 
+1. [Computador](Computador.java)
+2. [Computador Simples](ComputadorSimples.java)
+3. [Computador Parrudos](ComputadorParrudo.java)
+4. [Computador Gamers](ComputadorGamer.java)
+
 <!-- Informações -->
 ## &#8505; Informações
 
