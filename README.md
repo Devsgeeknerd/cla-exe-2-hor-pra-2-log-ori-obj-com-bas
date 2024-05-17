@@ -30,7 +30,7 @@ Dois dos três computadores também possuem atributos específicos:
 * Os computadores parrudos possuem uma característica que é a cor do gabinete;
 * Os computadores gamers possuem a quantidade de memória dedicada da placa de vídeo.
 
-[Resolução.](main.java)
+Resolução:
 
 <!-- Informações -->
 ## &#8505; Informações
