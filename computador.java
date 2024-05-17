@@ -2,7 +2,7 @@ package br.com.devsgeeknerd.computadores.classes;
 
 import java.util.Date;
 
-public abstract class computador {
+public abstract class Computador {
   private String nome;
   private double preco;
   private Date dataDeFabricacao;
@@ -31,7 +31,7 @@ public abstract class computador {
     this.dataDeFabricacao = dataDeFabricacao;
   }
 
-  public computador(String nome, double preco, Date dataDeFabricacao) {
+  public Computador(String nome, double preco, Date dataDeFabricacao) {
     this.nome = nome;
     this.preco = preco;
     this.dataDeFabricacao = dataDeFabricacao;
