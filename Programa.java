@@ -13,5 +13,20 @@ public class Programa {
     ComputadorParrudo computadorParrudo = new ComputadorParrudo("Computador Profissional", 2800.00, new Date(),
         "Branco");
     ComputadorGamer computadorGamer = new ComputadorGamer("Computador Gamer", 4200.00, new Date(), 12);
+
+    computadorSimples.ligar();
+    computadorSimples.acessarInternet();
+    computadorSimples.jogarPaciencia();
+    computadorSimples.desligar();
+
+    computadorParrudo.ligar();
+    computadorParrudo.acessarInternet();
+    computadorParrudo.jogarCS();
+    computadorParrudo.desligar();
+
+    computadorGamer.ligar();
+    computadorGamer.acessarInternet();
+    computadorGamer.jogarNeedForSpeed();
+    computadorGamer.desligar();
   }
 }
